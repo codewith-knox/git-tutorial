@@ -1,1 +1,2 @@
-console.log('change.js');
+console.log('change.js2');
+console.log('version 3')
